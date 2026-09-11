@@ -43,9 +43,17 @@ function showFallback(c){
   if(state.hls){state.hls.destroy();state.hls=null}
   video.pause(); video.removeAttribute('src'); video.load();
   video.classList.add('hidden'); ph.classList.remove('hidden');
-  sv.src='searching-channel.mp4';
+  sv.pause();
+  sv.removeAttribute('src');
+  sv.load();
+  sv.src='searching-channel.mp4?v=1';
+  sv.muted=true;
+  sv.autoplay=true;
+  sv.loop=true;
+  sv.playsInline=true;
   sv.currentTime=0;
-  sv.play().catch(()=>{});
+  sv.load();
+  requestAnimationFrame(()=>{ sv.play().catch(()=>{}); });
   $('selectedStatus').textContent='Searching Channel • Stream unavailable';
 }
 
