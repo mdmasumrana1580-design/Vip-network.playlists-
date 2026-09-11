@@ -44,16 +44,11 @@ function showFallback(c){
   video.pause(); video.removeAttribute('src'); video.load();
   video.classList.add('hidden'); ph.classList.remove('hidden');
   sv.pause();
-  sv.removeAttribute('src');
+  sv.muted=true; sv.autoplay=true; sv.loop=true; sv.playsInline=true;
+  sv.src='searching-channel.mp4?v=2';
   sv.load();
-  sv.src='searching-channel.mp4?v=1';
-  sv.muted=true;
-  sv.autoplay=true;
-  sv.loop=true;
-  sv.playsInline=true;
   sv.currentTime=0;
-  sv.load();
-  requestAnimationFrame(()=>{ sv.play().catch(()=>{}); });
+  sv.play().catch(()=>{});
   $('selectedStatus').textContent='Searching Channel • Stream unavailable';
 }
 
@@ -79,6 +74,13 @@ function select(c){
 
     const streamStarted=()=>{
       if(streamTimer){clearTimeout(streamTimer);streamTimer=null}
+      // A real stream is playing: stop and hide the searching video completely.
+      const sv=$('searchVideo');
+      sv.pause();
+      sv.removeAttribute('src');
+      sv.load();
+      ph.classList.add('hidden');
+      video.classList.remove('hidden');
       $('selectedStatus').textContent='Live • Stream Link Available';
     };
     video.addEventListener('playing',streamStarted,{once:true});
