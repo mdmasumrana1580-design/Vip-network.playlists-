@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/BTV_logo.png" group-title="BD",BTV
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BD",BTV
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",BTV News
 # No stream URL — unavailable in the supplied playlist
@@ -7,7 +7,7 @@
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BD",SOMOY TV
 https://cdn.devm3u.top/server1/somoy.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BD",BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",BOISHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="BD",MAASRANGA TV
 https://cdn.devm3u.top/server1/maasranga.m3u8
@@ -25,7 +25,7 @@ https://cdn.devm3u.top/server1/satv.m3u8
 https://cdn.devm3u.top/server1/ekhon.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="BD",MOHONA TV
 https://cdn.devm3u.top/server1/mohona.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/ekushey-tv.jpg" group-title="BD",EKUSHEY TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",EKUSHEY TV
 https://cdn.devm3u.top/server1/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",CHANNEL S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
@@ -35,7 +35,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",NAGORIK TV
 https://cdn.devm3u.top/server1/nagorik.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="BD",ATN BANGLA
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="BD",ATN BANGLA
 https://cdn.devm3u.top/server1/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d" group-title="BD",NEWS 24
 https://cdn.devm3u.top/server1/news24.m3u8
@@ -51,21 +51,21 @@ https://cdn.devm3u.top/server1/dbc.m3u8
 https://cdn.devm3u.top/server1/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BD",CHANNEL 24
 https://cdn.devm3u.top/server1/channel24.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="BD",JAMUNA TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BD",JAMUNA TV
 https://cdn.devm3u.top/server1/jamuna.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="BD",NTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",NTV
 https://cdn.devm3u.top/server1/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",ANANDA TV
 https://cdn.devm3u.top/server1/anandatv.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="BD",INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BD",INDEPENDENT TV
 http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/RUPASHI-BANGLA.jpg" group-title="BD",RUPSHI BANGLA
 https://cdn.devm3u.top/server1/ruposhi.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="INDIA",ZEE BANGLA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",ZEE BANGLA
 https://cdn.devm3u.top/server1/zeebangla.m3u8
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Sony_Aath.png" group-title="INDIA",SONY AATH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",SONY AATH
 https://cdn.devm3u.top/server1/sonyaath.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIA",STAR JALSHA HD
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-JALSHA.png" group-title="INDIA",STAR JALSHA HD
 https://cdn.devm3u.top/server1/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV9-Bangla1.png" group-title="INDIA",TV9 BANGLA
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -85,7 +85,7 @@ https://cdn.devm3u.top/server1/9xm.m3u8
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",DANGAL 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="INDIA",COLORS BANGLA HD
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="INDIA",COLORS BANGLA HD
 https://cdn.devm3u.top/server1/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",SOUTH MOVIES
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
@@ -129,7 +129,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",MADANI CHANNEL
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/BTV_logo.png" group-title="BD",BTV
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BD",BTV
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",BTV News
 # No stream URL — unavailable in the supplied playlist
@@ -151,7 +151,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/in.starplus.png" group-title="INDIA",Star Plus
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="INDIA",Colors Bangla
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="INDIA",Colors Bangla
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Sun Bangla
 # No stream URL — unavailable in the supplied playlist
