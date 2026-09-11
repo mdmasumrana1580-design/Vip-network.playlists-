@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BD",BTV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",BTV News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU" group-title="BD",BTV News
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Sangsad Television
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png" group-title="BD",Sangsad Television
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BD",SOMOY TV
 https://cdn.devm3u.top/server1/somoy.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BD",BOISHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="BD",MAASRANGA TV
 https://cdn.devm3u.top/server1/maasranga.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",MY TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BD",MY TV
 https://cdn.devm3u.top/server1/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="BD",BANGLA TV
 https://cdn.devm3u.top/server1/banglatv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",ASIAN TV
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="BD",ASIAN TV
 https://cdn.devm3u.top/server1/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="BD",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -25,15 +25,15 @@ https://cdn.devm3u.top/server1/satv.m3u8
 https://cdn.devm3u.top/server1/ekhon.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="BD",MOHONA TV
 https://cdn.devm3u.top/server1/mohona.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",EKUSHEY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BD",EKUSHEY TV
 https://cdn.devm3u.top/server1/ekushey.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",CHANNEL S
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="BD",CHANNEL S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",PEACE TV Bangla
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e33b23f7dc3d39008d672952c33069d4" group-title="BD",PEACE TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",R TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG" group-title="BD",R TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",NAGORIK TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="BD",NAGORIK TV
 https://cdn.devm3u.top/server1/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="BD",ATN BANGLA
 https://cdn.devm3u.top/server1/atnbangla.m3u8
@@ -43,27 +43,27 @@ https://cdn.devm3u.top/server1/news24.m3u8
 https://cdn.devm3u.top/server1/ekattor.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="BD",DURONTO TV
 https://cdn.devm3u.top/server1/duranta.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",DESH TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="BD",DESH TV
 https://cdn.devm3u.top/server1/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe" group-title="BD",DBC NEWS
 https://cdn.devm3u.top/server1/dbc.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",CHANNEL I
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="BD",CHANNEL I
 https://cdn.devm3u.top/server1/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BD",CHANNEL 24
 https://cdn.devm3u.top/server1/channel24.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BD",JAMUNA TV
 https://cdn.devm3u.top/server1/jamuna.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",NTV
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="BD",NTV
 https://cdn.devm3u.top/server1/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",ANANDA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="BD",ANANDA TV
 https://cdn.devm3u.top/server1/anandatv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BD",INDEPENDENT TV
 http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/RUPASHI-BANGLA.jpg" group-title="BD",RUPSHI BANGLA
 https://cdn.devm3u.top/server1/ruposhi.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",ZEE BANGLA
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee%20Bangla.png" group-title="INDIA",ZEE BANGLA
 https://cdn.devm3u.top/server1/zeebangla.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",SONY AATH
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="INDIA",SONY AATH
 https://cdn.devm3u.top/server1/sonyaath.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-JALSHA.png" group-title="INDIA",STAR JALSHA HD
 https://cdn.devm3u.top/server1/starjalsha.m3u8
@@ -81,81 +81,81 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 https://stream.ottplus.live/live/b4u_music_abr/index.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/9xm.png" group-title="INDIA",9XM
 https://cdn.devm3u.top/server1/9xm.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",DANGAL TV
+#EXTINF:-1 tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal_16x9.jpg" group-title="INDIA",DANGAL TV
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",DANGAL 2
+#EXTINF:-1 tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal2_16x9.jpg" group-title="INDIA",DANGAL 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="INDIA",COLORS BANGLA HD
 https://cdn.devm3u.top/server1/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",SOUTH MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Y8qW7Q.png" group-title="INDIA",SOUTH MOVIES
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",HINDI MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Y8qW7Q.png" group-title="INDIA",HINDI MOVIES
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",JALSHA MOVIES HD
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jalsha%20Movies.png" group-title="INDIA",JALSHA MOVIES HD
 https://cdn.devm3u.top/server1/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="SPORTS",GAZI TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg" group-title="SPORTS",GAZI TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="SPORTS",PTV SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="SPORTS",PTV SPORTS
 https://cdn.devm3u.top/server1/ptv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="SPORTS",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/BFrSSMWxab.png" group-title="SPORTS",STAR SPORTS 1 HD
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="SPORTS",STAR SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/BFrSSMWxab.png" group-title="SPORTS",STAR SPORTS 2 HD
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="SPORTS",BEIN SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="SPORTS",BEIN SPORTS
 https://tvsen6.aynaott.com/beinsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="SPORTS",TSN 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="SPORTS",TSN 1
 https://tvsen7.aynascope.net/tsn1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="SPORTS",TSN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="SPORTS",TSN 2
 https://tvsen7.aynascope.net/tsn2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="SPORTS",ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="SPORTS",ESPN
 https://tvsen7.aynascope.net/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",KIDS FLIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="OTHERS",KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",DORAEMON 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Zp1LT9.png" group-title="OTHERS",DORAEMON 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",GOPAL BHAR 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="OTHERS",GOPAL BHAR 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",MR BEAN 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="OTHERS",MR BEAN 24/7
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="OTHERS",CARTOON NETWORK HD
 https://cdn.devm3u.top/server1/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",SONIC
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="OTHERS",SONIC
 https://cdn.devm3u.top/server1/sonic.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids.png" group-title="OTHERS",DISCOVERY KIDS
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",PEACE TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",PEACE TV
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",SUNNAH TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",MADANI CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",MADANI CHANNEL
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/0.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BD",BTV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",BTV News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU" group-title="BD",BTV News
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Sangsad Television
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png" group-title="BD",Sangsad Television
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",GTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg" group-title="BD",GTV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Banglavision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD",Banglavision
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Global Television
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png" group-title="BD",Global Television
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Green TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BD",Green TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Channel 9
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43" group-title="BD",Channel 9
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",ATN News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="BD",ATN News
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Islamic TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Islamic TV
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/in.starplus.png" group-title="INDIA",Star Plus
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="INDIA",Colors Bangla
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Sun Bangla
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sun%20Bangla.png" group-title="INDIA",Sun Bangla
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",ABP Ananda
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" group-title="INDIA",ABP Ananda
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/REPUBLIC-BANGLA-LOGO_RGB_Transparent.png" group-title="INDIA",Republic Bangla
 # No stream URL — unavailable in the supplied playlist
@@ -165,33 +165,33 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/zeenews.png" group-title="INDIA",Zee News
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",India TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ5yBfo.png" group-title="INDIA",India TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",News18 India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BR4BUAw.png" group-title="INDIA",News18 India
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",NDTV India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QjJYohG.png" group-title="INDIA",NDTV India
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Republic Bharat
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" group-title="INDIA",Republic Bharat
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Times Now Navbharat
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png" group-title="INDIA",Times Now Navbharat
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Star Sports 1 Hindi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104672.png" group-title="INDIA",Star Sports 1 Hindi
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Star Sports 1 Bangla
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104672.png" group-title="INDIA",Star Sports 1 Bangla
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Sony Sports Ten 1
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="INDIA",Sony Sports Ten 1
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Sony Sports Ten 2
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="INDIA",Sony Sports Ten 2
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Sony Sports Ten 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png" group-title="INDIA",Sony Sports Ten 3
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Sony Sports Ten 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" group-title="INDIA",Sony Sports Ten 5
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/sonytv.png" group-title="INDIA",Sony Entertainment Television
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Sony SAB
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png" group-title="INDIA",Sony SAB
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Sony MAX 2
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="INDIA",Sony MAX 2
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/in.ristheycineplex.png" group-title="INDIA",Colors Cineplex
 # No stream URL — unavailable in the supplied playlist
@@ -199,7 +199,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" group-title="INDIA",Star Gold 2
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Star Gold Thrills
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Y8qW7Q.png" group-title="INDIA",Star Gold Thrills
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/in.zing.png" group-title="INDIA",Zing
 # No stream URL — unavailable in the supplied playlist
@@ -209,9 +209,9 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/in.rishtey.png" group-title="INDIA",Colors Rishtey
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Shemaroo TV
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Shemaroo%20TV.png" group-title="INDIA",Shemaroo TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="INDIA",Shemaroo Umang
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Shemaroo%20Umang.png" group-title="INDIA",Shemaroo Umang
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ddnationalhd.jpg" group-title="INDIA",DD National
 # No stream URL — unavailable in the supplied playlist
@@ -227,53 +227,53 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 # No stream URL — unavailable in the supplied playlist
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-JUNIOR-HD.png" group-title="OTHERS",Disney Junior
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="OTHERS",Nickelodeon
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",Nick Jr.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="OTHERS",Nick Jr.
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",Hungama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="OTHERS",Hungama
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",Super Hungama
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="OTHERS",Super Hungama
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",Sony YAY!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="OTHERS",Sony YAY!
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",BabyTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFtkF5H.jpg" group-title="OTHERS",BabyTV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",CBeebies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png" group-title="OTHERS",CBeebies
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",Animax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="OTHERS",Animax
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="OTHERS",Disney XD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UE7TW2L.png" group-title="OTHERS",Disney XD
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Peace TV Urdu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Peace TV Urdu
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Islam Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Islam Channel
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Islam Channel Urdu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Islam Channel Urdu
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Huda TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Huda TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",IQRA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",IQRA TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Quran TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Quran TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Saudi Quran TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Saudi Quran TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Saudi Sunnah TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Saudi Sunnah TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Noor TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Noor TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Ahlebait TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Ahlebait TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Guide TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Guide TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Islam TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Islam TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Islamic TV Bangladesh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Islamic TV Bangladesh
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",Quran TV Bangladesh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",Quran TV Bangladesh
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",ATN Islamic TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",ATN Islamic TV
 # No stream URL — unavailable in the supplied playlist
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdmasumrana1580-design/Vip-network.playlists-/refs/heads/main/vip-network-logo.png" group-title="BD",BTV Islamic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="BD",BTV Islamic
 # No stream URL — unavailable in the supplied playlist
