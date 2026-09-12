@@ -45,7 +45,7 @@ function showFallback(c){
   video.classList.add('hidden'); ph.classList.remove('hidden');
   sv.pause();
   sv.muted=true; sv.autoplay=true; sv.loop=true; sv.playsInline=true;
-  sv.src='searching-channel.mp4?v=2';
+  sv.src='searching-channel.mp4?v=3';
   sv.load();
   sv.currentTime=0;
   sv.play().catch(()=>{});
